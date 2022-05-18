@@ -1,3 +1,13 @@
+/*FCI – Programming 1 – 2022 - Assignment 4 
+Program Name:CS112-2022-2nd –S7 S8-20210121-20210183-20210331A4TextEditorApp               
+Last Modification Date: 16 May 2022
+Author1 and ID and Group: Habiba Alaa Mohamed 20210121
+Author2 and ID and Group: Shahd Salah El-Dein Abd El-Tawab 20210183
+Author3 and ID and Group: Mohamed Ehab Tawfik 20210331
+
+Teaching Assistant: Eng. Abdelrahman Abdelmonem
+Purpose: Make user enter the file he want or create his file and then he could edit on it as he want and know the number of words,lines,etc..
+Version:1.0*/
 #include"textfunction.h"
 #include"textfunction.cpp"
 int main()
